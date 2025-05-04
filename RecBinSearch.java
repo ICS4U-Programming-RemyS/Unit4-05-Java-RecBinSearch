@@ -95,7 +95,6 @@ final class RecBinSearch {
             // Sort the array
             Arrays.sort(sortedArray);
 
-
             // Check line under for number that will be searched for
             if (scanner.hasNextLine()) {
 
